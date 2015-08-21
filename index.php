@@ -21,10 +21,11 @@
    	</head>
 
    	<body>
-				<iframe src="graph.php" width=100% height=1650px frameborder="0"></iframe>
 
-			<script src="js/bootstrap.min.js"></script>
-	   		<script src="js/wow.min.js"></script>
-	  		<script> new WOW().init(); </script>
+		<iframe src="graph.php" width=100% height=1650px frameborder="0"></iframe>
+		
+		<script src="js/bootstrap.min.js"></script>
+	   	<script src="js/wow.min.js"></script>
+	  	<script> new WOW().init(); </script>
    	</body>
 </html>
