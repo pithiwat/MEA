@@ -10,7 +10,7 @@
 
 
 /**
- * PDF-specfic configuration
+ * PDF-specific configuration
  */
 AmCharts.exportPDF = {
 	"format": "PDF",
@@ -21,7 +21,7 @@ AmCharts.exportPDF = {
 };
 
 /**
- * Print-specfic configuration
+ * Print-specific configuration
  */
 AmCharts.exportPrint = {
 	"format": "PRINT",

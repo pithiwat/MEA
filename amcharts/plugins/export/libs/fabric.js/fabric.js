@@ -12576,7 +12576,7 @@ fabric.util.object.extend(fabric.StaticCanvas.prototype, /** @lends fabric.Stati
           p = this._calculateCurrentDimensions(false),
           currentWidth = p.x, currentHeight = p.y;
 
-      // If width is negative, make postive. Fixes path selection issue
+      // If width is negative, make positive. Fixes path selection issue
       if (currentWidth < 0) {
         currentWidth = Math.abs(currentWidth);
       }

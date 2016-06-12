@@ -86,7 +86,7 @@ There are two ways to load them. Choose the one that is right:
 
 ### 1) Automatic (preferred)
 
-All libraries required for plugin operation are included withing plugins */libs* 
+All libraries required for plugin operation are included within plugins */libs* 
 subdirectory.
 
 The plugin will automatically try to look in chart's [`path`](http://docs.amcharts.com/3/javascriptcharts/AmSerialChart#path) 

@@ -6,7 +6,7 @@
  */
 
 /**
- * PDF-specfic configuration
+ * PDF-specific configuration
  */
 AmCharts.exportDrawingMenu = [ {
   class: "export-drawing",
