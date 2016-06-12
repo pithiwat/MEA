@@ -17479,7 +17479,7 @@
 	// (cf. JIS X 0510:2004 sec 8.8.2)
 	//
 	// the evaluation procedure tries to avoid the problematic patterns naturally
-	// occuring from the original matrix. for example, it penaltizes the patterns
+	// occurring from the original matrix. for example, it penaltizes the patterns
 	// which just look like the finder pattern which will confuse the decoder.
 	// we choose the mask which results in the lowest score among 8 possible ones.
 	//
